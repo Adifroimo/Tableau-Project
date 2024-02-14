@@ -1,5 +1,6 @@
 # Tableau-Project
-Data Visualization Project using Tableau
+Data Visualization Project using Tableau.
+It is recommended to open the project on a desktop computer screen.
 
 
 Dashboard : 
